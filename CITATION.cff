@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Stomatal Conductance Dynamic Model"
+version: "1.0.0"
+date-released: "2026-06-19"
+authors:
+  - family-names: "Niño Celis"
+    given-names: "Viviana"
+    email: "vivianancelis@gmail.com"
+repository-code: "https://github.com/VivianaNCelis/stomatal_conductance_model"
+license: "MIT"
+abstract: "Computational implementation of a dynamic model for estimating stomatal conductance from radiation, leaf temperature, and leaf-to-air vapor pressure deficit."
