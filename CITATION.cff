@@ -8,5 +8,6 @@ authors:
     given-names: "Viviana"
     email: "vivianancelis@gmail.com"
 repository-code: "https://github.com/VivianaNCelis/stomatal_conductance_model"
+doi: "10.5281/zenodo.20769307"
 license: "MIT"
 abstract: "Computational implementation of a dynamic model for estimating stomatal conductance from radiation, leaf temperature, and leaf-to-air vapor pressure deficit."
