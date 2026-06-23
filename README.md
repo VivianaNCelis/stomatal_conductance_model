@@ -8,7 +8,7 @@ This repository contains the computational implementation of a dynamic model for
 
 ## Purpose
 
-The code reproduces the model calibration, simulation, validation, and graphical outputs associated with the manuscript submitted to *Environmental Modelling & Software*.
+The code reproduces the model calibration, simulation, validation, and graphical outputs associated with the manuscript.
 
 ## Paper
 
