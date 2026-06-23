@@ -6,10 +6,6 @@
 
 This repository contains the computational implementation of a dynamic model for estimating stomatal conductance from operationally accessible environmental variables, including radiation, leaf temperature, and leaf-to-air vapor pressure deficit.
 
-## Purpose
-
-The code reproduces the model calibration, simulation, validation, and graphical outputs associated with the manuscript.
-
 ## Paper
 
 **Dynamic modeling of stomatal conductance for large-scale applications: integrating leaf temperature and environmental variables**
