@@ -8,7 +8,7 @@ This repository contains the computational implementation of a dynamic model for
 
 ## Paper
 
-**Dynamic modeling of stomatal conductance for large-scale applications: integrating leaf temperature and environmental variables**
+**Leaf-temperature-driven dynamic modeling of stomatal conductance under contrasting water availability and seasonal conditions**
 
 ## Repository structure
 
