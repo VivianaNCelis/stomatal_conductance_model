@@ -78,7 +78,7 @@ This software is distributed under the MIT License.
 
 If you use this software, please cite the archived version:
 
-Viviana Niño Celis. (2026). *Stomatal Conductance Dynamic Model* (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20769307
+Viviana Niño Celis. (2026). *Stomatal Conductance* (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20769307
 
 ## Contact
 
