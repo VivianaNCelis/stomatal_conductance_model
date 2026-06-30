@@ -1,4 +1,4 @@
-# Stomatal Conductance Dynamic Model
+# Stomatal Conductance
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20769307.svg)](https://doi.org/10.5281/zenodo.20769307)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
